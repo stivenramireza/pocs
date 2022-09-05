@@ -1,0 +1,24 @@
+{
+  "name": "blockchain-poc",
+  "version": "1.0.0",
+  "description": "Blockchain POC to distribute and decentralize information in a list of blocks securely linked together using cryptography.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stivenramireza/blockchain-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stivenramireza/blockchain-poc/issues"
+  },
+  "homepage": "https://github.com/stivenramireza/blockchain-poc#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "hex2ascii": "^0.0.3"
+  }
+}
